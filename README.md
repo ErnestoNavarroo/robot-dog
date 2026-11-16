@@ -2,12 +2,15 @@
 
 A quadruped robot built at EspaiTec — Universitat Jaume I (Castelló de la Plana).
 
-![The chassis on the bench](images/robot-dog-chassis.jpg)
+![Work in progress at EspaiTec](images/robot-dog-chassis.jpg)
 
 ## Current state
 
-The first leg is under firmware control, commanded live from a serial console.
-The rest of the frame is still being built.
+One leg is assembled and under firmware control, commanded live from a serial console.
+
+## Target
+
+A four-legged platform with this same closed-chain leg on every corner.
 
 ## The leg
 
